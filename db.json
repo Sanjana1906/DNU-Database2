@@ -1,0 +1,33 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "parentId" : "",
+      "employeeName": "sanjana"
+    },
+    {
+      "id": "2",
+      "parentId" : "1",
+      "employeeName": "sumana"
+    },
+    {
+      "id": "3",
+      "parentId" : "2",
+      "employeeName": "sushmita"
+    }	
+  ],
+  "designation": [
+    {
+      "managementlevel" : "analyst",
+      "salary" : "30000"
+    },
+    {
+      "managementlevel" : "associate",
+      "salary" : "50000"
+    },
+    {
+      "managementlevel" : "manager",
+      "salary" : "70000"
+    } 
+  ]
+}
